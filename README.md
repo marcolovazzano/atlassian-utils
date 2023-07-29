@@ -1,1 +1,1 @@
-# atlassian-util
+# atlassian-utils
